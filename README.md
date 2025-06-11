@@ -1,44 +1,48 @@
 <p align="center">
-  <img src="banner.png" alt="Aviator Clone" />
+  <img src="banner.png" alt="Aviator Clone" width="100%" />
 </p>
-✈️ Aviator Crash Game — Clone + Predictor
-Aviator Crash Game is a thrilling multiplayer experience where players test their timing and instincts to win! With a sleek UI, predictor logic, and real-time gameplay, this version is ideal for testing or launching with further upgrades.
 
-📞 Contact
+<h1 align="center">✈️ Aviator Crash Game — Clone + Predictor</h1>
+
+Aviator Crash Game is a thrilling multiplayer experience where players test their timing and instincts to win!  
+With a sleek UI, predictor logic, and real-time gameplay, this version is ideal for testing or launching with further upgrades.
+
+---
+
+## 📞 Contact
+
 Want to buy the source code or collaborate?
 
-📱 Telegram: @GHOSTANAME777
+👉 **Telegram**: [@GHOSTANAME777](https://t.me/GHOSTANAME777)
 
-🌟 Features
-🎮 Game Mechanics
+---
 
-Place your bet and watch the multiplier rise.
+## 🌟 Features
 
-Cash out before the plane crashes.
+### 🎮 Game Mechanics
 
-Predictor helps calculate crash probability.
+- Place your bet and watch the multiplier rise  
+- Cash out before the plane crashes  
+- **Predictor** helps calculate crash probability  
 
-📈 Highlights
+### 📈 Highlights
 
-Real-time logic.
+- Real-time logic  
+- JS-based predictor  
+- Fast, responsive UI  
+- Can be upgraded with payments and user auth  
 
-JS-based predictor.
+---
 
-Fast, responsive UI.
+## 🔐 Transparency & Security
 
-Can be upgraded with payments and user auth.
+- No backend by default — frontend logic only  
+- Can be extended for production use  
 
-🔐 Transparency & Security
+---
 
-No backend by default — frontend logic only.
+## 🛠️ Tech Stack
 
-Can be extended for production use.
-
-🛠️ Tech Stack
-
-HTML / JS / (or React optionally)
-
-Lightweight & mobile-friendly
-
-Ready for customization and deployment
-
+- HTML / JavaScript (or React optionally)  
+- Lightweight & mobile-friendly  
+- Ready for customization and deployment

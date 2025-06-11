@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Aviator Clone" />
+</p>
 ✈️ Aviator Crash Game — Clone + Predictor
 Aviator Crash Game is a thrilling multiplayer experience where players test their timing and instincts to win! With a sleek UI, predictor logic, and real-time gameplay, this version is ideal for testing or launching with further upgrades.
 
